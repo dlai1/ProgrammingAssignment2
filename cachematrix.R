@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Assignment 2 Coursera Solutions
 
 ## Generates invertible matrix, has a cached inverse that can be stored later
 
